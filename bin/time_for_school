@@ -24,5 +24,6 @@ holo.last_name = "Brownie"
 some_knowledge = avi.teach 
 
 holo.learn(some_knowledge)
+holo.learn.all
 
 puts "Holo just learned this important knowledge: '#{holo.knowledge.first}' from Avi"
